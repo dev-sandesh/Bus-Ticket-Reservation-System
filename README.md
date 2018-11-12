@@ -2,8 +2,8 @@
 
 
 Online Bus Reservation System explains about concept of developing a web
-based bus ticket buying system. This project is implemented in HTML/CSS in
-frontend, while PHP and JavaScript in Backend.
+based bus ticket buying system. This project is implemented in HTML,CSS and JavaScript in
+frontend, while PHP in Backend.
 
 It manages the details of ticket booked, bus details and timings and so on.
 Buses contains all necessary details with bus no, Destination and Boarding city,
